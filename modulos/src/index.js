@@ -1,3 +1,6 @@
 import carrito from './carrito'
-console.log('archivo inicial')
-carrito(); 
+console.log('index')
+carrito();  
+
+// import nombre from './nameExports'
+// console.log(`mi nombre es ${nombre}`)

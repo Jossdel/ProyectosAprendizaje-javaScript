@@ -1,8 +1,11 @@
 'use strict';
 
 var carrito = ()=>{
-    console.log('carrito funcionando');
+    console.log('Producto agregado al carro ');
 };
 
-console.log('archivo inicial');
-carrito();
+console.log('index');
+carrito();  
+
+// import nombre from './nameExports'
+// console.log(`mi nombre es ${nombre}`)

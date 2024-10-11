@@ -1,3 +1,3 @@
 export default ()=>{
-    console.log('Producto agregado al ')
+    console.log('Producto agregado al carro ')
 }
